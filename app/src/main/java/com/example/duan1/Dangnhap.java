@@ -87,7 +87,7 @@ public class Dangnhap extends AppCompatActivity {
                             editor.putString("name", user.getName());
                             editor.putString("id_taikhoan", user.getId());
                             editor.apply();
-                            //helo
+
 
                             Toast.makeText(Dangnhap.this, "Đăng nhập thành công", Toast.LENGTH_SHORT).show();
 
