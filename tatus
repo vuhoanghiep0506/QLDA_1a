@@ -1,0 +1,35 @@
+[33mcommit d1f7f18a1c17bcdcf0cca692af8dbde5be360293[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login-register-ui[m[33m, [m[1;31morigin/feature/login-register-ui[m[33m)[m
+Author: vuhiep <vhiep736@gmail.com>
+Date:   Sat Nov 22 01:20:02 2025 +0700
+
+    Thêm giao diện item_customer
+
+[33mcommit 9ebec5221cdb278bd3b894d47224e573b86ba0ad[m
+Author: vuhiep <vhiep736@gmail.com>
+Date:   Sat Nov 22 01:16:49 2025 +0700
+
+    giao diện chức năng quản lý khách hàng
+
+[33mcommit 15d53b6b172a8cd0cf7ae570984a31004fa76713[m
+Author: vuhiep <vhiep736@gmail.com>
+Date:   Sat Nov 22 01:16:39 2025 +0700
+
+    giao diện chức năng quản lý khách hàng
+
+[33mcommit f8be05de09f0efbe93293a161a3403014e4bf6d7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/feature/customer[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m, [m[1;32mfeature/customer[m[33m)[m
+Author: vuhiep <vhiep736@gmail.com>
+Date:   Thu Nov 20 02:35:01 2025 +0700
+
+    "Thêm layout Login và Register"
+
+[33mcommit 31f9ee225881c0b680ba37dc82c1eea86d596fbc[m
+Author: vuhiep <vhiep736@gmail.com>
+Date:   Thu Nov 20 02:34:56 2025 +0700
+
+    "Thêm layout Login và Register"
+
+[33mcommit 7440b72a436b23f2667afc09d33582a0b683f3c4[m
+Author: quan <naq29082006@gmail.com>
+Date:   Mon Nov 17 02:50:44 2025 +0700
+
+    Initial commit
