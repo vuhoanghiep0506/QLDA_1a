@@ -105,6 +105,7 @@ public class Dangnhap extends AppCompatActivity {
                         } else {
                             Toast.makeText(Dangnhap.this, "Đăng nhập thất bại: " + res.getMessenger(), Toast.LENGTH_SHORT).show();
                             Log.e("Lỗi", response.toString());
+
                         }
                     } else {
                         String errorBody = response.errorBody() != null ? response.errorBody().toString() : "Không có thông tin lỗi";
