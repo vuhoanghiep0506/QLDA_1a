@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@android:color/white">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thêm Khách Hàng"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#333"
+        android:layout_gravity="center"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:id="@+id/edtTEnKH"
+        android:background="@drawable/bg_editext"
+        android:padding="10dp"
+        android:hint="Tên Khách Hàng"
+        android:textColor="#000"
+        android:textColorHint="#8A8A8A"
+        android:layout_marginTop="20dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:id="@+id/edtPhone"
+        android:padding="10dp"
+        android:hint="Số Điện Thoai" 
+        android:textColor="#000"
+        android:textColorHint="#8A8A8A"
+        android:layout_marginTop="12dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:id="@+id/edtDiachi"
+        android:padding="10dp"
+        android:hint="Địa Chỉ"
+        android:textColor="#000"
+        android:textColorHint="#8A8A8A"
+        android:layout_marginTop="12dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="right"
+        android:layout_marginTop="20dp">
+        <Button
+            android:id="@+id/btnHuy"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hủy"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#D32F2F"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"/>
+        <Button
+            android:id="@+id/btnThem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Thêm"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#1976D2"
+            android:layout_marginLeft="15dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"/>
+
+    </LinearLayout>
+
+        
+
+</LinearLayout>
